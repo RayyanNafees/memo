@@ -1,0 +1,5 @@
+- Crypto (Eth/BTC)
+- Lithium Production/Pipeline
+- AI & Machine Learning
+- BioTechs (Interpretting language of babies/animals)
+- Natrual Neural Networks
